@@ -59,3 +59,11 @@ Os resultados obtidos demonstram o potencial do uso de Redes Neurais no contexto
 
 ## 📂 Estrutura do Projeto
 
+GS_Future_of_Work/
+│
+├── data/ # Base de dados
+├── notebooks/ # Análises exploratórias
+├── models/ # Modelos treinados
+├── src/ # Scripts principais
+├── requirements.txt # Dependências do projeto
+└── README.md
